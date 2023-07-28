@@ -9,6 +9,7 @@ namespace MainProgram
         public static void Main(string[] args)
         {
             ReadData.ReadUserInput();
+            ReadData.ReadAnimalData();
             
         }
     }
