@@ -1,0 +1,15 @@
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/oop.csproj.AssemblyReference.cache
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/oop.AssemblyInfoInputs.cache
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/oop.AssemblyInfo.cs
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/oop.csproj.CoreCompileInputs.cache
+/home/sushil/dotnet-oop/oop/bin/Debug/net6.0/oop
+/home/sushil/dotnet-oop/oop/bin/Debug/net6.0/oop.deps.json
+/home/sushil/dotnet-oop/oop/bin/Debug/net6.0/oop.runtimeconfig.json
+/home/sushil/dotnet-oop/oop/bin/Debug/net6.0/oop.dll
+/home/sushil/dotnet-oop/oop/bin/Debug/net6.0/ref/oop.dll
+/home/sushil/dotnet-oop/oop/bin/Debug/net6.0/oop.pdb
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/oop.dll
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/ref/oop.dll
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/oop.pdb
+/home/sushil/dotnet-oop/oop/obj/Debug/net6.0/oop.genruntimeconfig.cache

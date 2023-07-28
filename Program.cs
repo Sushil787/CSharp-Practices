@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using System;
+using HumanSpace;
+
+namespace MainProgram
+{
+    public class PublicClass
+    {
+        public static void Main(string[] args)
+        {
+            ReadData.ReadUserInput();
+            
+        }
+    }
+}
