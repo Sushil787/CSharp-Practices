@@ -8,6 +8,7 @@ namespace MainProgram
     {
         public static void Main(string[] args)
         {
+            ReadData.ReadSelaedSpaceData();
             ReadData.ReadUserInput();
             ReadData.ReadAnimalData();
             

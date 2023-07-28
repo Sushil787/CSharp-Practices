@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using oop;
+using AnimalSpace;
 
 namespace HumanSpace
 {
@@ -57,6 +58,12 @@ namespace HumanSpace
         {
             Dog baga = new Dog();
             baga.Init();
+        }
+        public static void ReadSelaedSpaceData(){
+            Doge dog =new  Doge();
+            Cow co = new Cow();
+            Cat ca = new Cat();
+
         }
     }
 
