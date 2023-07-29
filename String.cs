@@ -1,4 +1,5 @@
 
+using System.Net.NetworkInformation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -64,6 +65,16 @@ namespace HumanSpace
             Cow co = new Cow();
             Cat ca = new Cat();
 
+        }
+
+        public static void ReadIndexerClass(){
+            IndexerClass iClass = new IndexerClass();
+            iClass[0] = "sushil";
+            iClass[1] = "gyawali";
+            iClass[2] = " say hi";
+            foreach(string val in iClass.val){
+                Console.WriteLine(val);
+            }
         }
     }
 
