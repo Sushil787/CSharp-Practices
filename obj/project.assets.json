@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sushil/dotnet-oop/oop/oop.csproj",
+      "projectUniqueName": "/home/sushil/Desktop/NCC/CSharp-Practices/oop.csproj",
       "projectName": "oop",
-      "projectPath": "/home/sushil/dotnet-oop/oop/oop.csproj",
+      "projectPath": "/home/sushil/Desktop/NCC/CSharp-Practices/oop.csproj",
       "packagesPath": "/home/sushil/.nuget/packages/",
-      "outputPath": "/home/sushil/dotnet-oop/oop/obj/",
+      "outputPath": "/home/sushil/Desktop/NCC/CSharp-Practices/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sushil/.nuget/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.120/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
       }
     }
   }
